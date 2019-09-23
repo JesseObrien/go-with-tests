@@ -1,4 +1,4 @@
-package maps
+package main 
 
 // Dictionary is a type
 type Dictionary map[string]string
